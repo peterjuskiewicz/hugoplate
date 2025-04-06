@@ -1,0 +1,20 @@
+################ English language ##################
+[en]
+languageName = "🇬🇧"
+languageCode = "en-gb"
+contentDir = "content/english"
+weight = 1
+
+################ Arabic language ##################
+[ar]
+languageName = "🇦🇪"
+languageCode = "ar-ae"
+contentDir = "content/arabic"
+weight = 2
+
+################ Polish language ##################
+[pl]
+languageName = "🇵🇱"
+languageCode = "pl-pl"
+contentDir = "content/polish"
+weight = 3

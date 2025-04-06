@@ -1,0 +1,54 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "O nas"
+url = "/about"
+weight = 2
+
+
+[[main]]
+weight = 3
+name = "Strony"
+
+[[main]]
+parent = "Strony"
+name = "Blog"
+url = "/blog"
+
+[[main]]
+parent = "Strony"
+name = "Kontakt"
+url = "/contact"
+
+[[main]]
+parent = "Strony"
+name = "Autorzy"
+url = "/authors"
+
+[[main]]
+parent = "Strony"
+name = "Kategorie"
+url = "/categories"
+
+[[main]]
+parent = "Strony"
+name = "404 Strona"
+url = "/404"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3

@@ -1,0 +1,54 @@
+############# Arabic navigation ##############
+
+# main menu
+[[main]]
+name = "بيت"
+url = "/"
+weight = 3
+
+[[main]]
+name = "عن"
+url = "/about"
+weight = 2
+
+
+[[main]]
+weight = 1
+name = "الصفحات"
+
+[[main]]
+parent = "الصفحات"
+name = "مدونة"
+url = "/blog"
+
+[[main]]
+parent = "الصفحات"
+name = "اتصال"
+url = "/contact"
+
+[[main]]
+parent = "الصفحات"
+name = "المؤلفون"
+url = "/authors"
+
+[[main]]
+parent = "الصفحات"
+name = "فئات"
+url = "/categories"
+
+[[main]]
+parent = "الصفحات"
+name = "404 صفحة"
+url = "/404"
+
+
+# footer menu
+[[footer]]
+name = "عن"
+url = "/about"
+weight = 2
+
+[[footer]]
+name = "سياسة الخصوصية"
+url = "/privacy-policy"
+weight = 1
