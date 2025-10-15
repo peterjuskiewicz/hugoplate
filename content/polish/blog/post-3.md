@@ -1,23 +1,23 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Członkostwo w Impact Europe"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Software"]
-author: "John Doe"
-tags: ["software", "tailwind"]
+date: 2024-12-31T05:00:00Z
+image: "/images/impact.jpg"
+categories: ["Członkostwo"]
+author: "Piotr Juśkiewicz"
+tags: ["NIW"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Fundacja Westem dołącza do Impact Europe dzięki wsparciu Narodowego Instytutu Wolności
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Fundacja Westem z dumą ogłosiła swoje przystąpienie do prestiżowej organizacji Impact Europe, zrzeszającej organizacje pozarządowe działające na rzecz społecznych innowacji, zrównoważonego rozwoju i integracji społecznej w Europie. To wyjątkowe osiągnięcie jest wynikiem projektu sfinansowanego przez Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego.
 
-## Creative Design
+Członkostwo w Impact Europe otwiera przed Fundacją Westem nowe możliwości współpracy międzynarodowej, wymiany doświadczeń oraz realizacji wspólnych projektów z innymi organizacjami pozarządowymi na terenie Europy. Dzięki temu Fundacja zyska szansę na jeszcze większy wpływ na społeczeństwo i realizację swoich celów statutowych w obszarze wsparcia społecznego i edukacji.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Wsparcie Narodowego Instytutu Wolności odegrało kluczową rolę w tym sukcesie, umożliwiając pokrycie kosztów związanych z przystąpieniem do organizacji oraz rozwojem strategicznych kompetencji niezbędnych do efektywnej współpracy międzynarodowej.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+„Jesteśmy niezwykle wdzięczni za zaufanie, jakim obdarzył nas Narodowy Instytut Wolności. Dzięki ich wsparciu możemy teraz w pełni uczestniczyć w europejskiej sieci współpracy na rzecz lepszego jutra,” powiedział przedstawiciel Fundacji Westem.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Fundacja Westem planuje aktywnie angażować się w działania Impact Europe, promując polskie doświadczenia i inicjatywy na arenie międzynarodowej.

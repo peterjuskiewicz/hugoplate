@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "ادعمنا"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://donate.stripe.com/test_bIY045b4B5tGcaAdQQ"
 # Features
 features:
   - title: "المهمة"

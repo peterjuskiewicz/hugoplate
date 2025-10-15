@@ -36,12 +36,6 @@ parent = "الصفحات"
 name = "فئات"
 url = "/categories"
 
-[[main]]
-parent = "الصفحات"
-name = "404 صفحة"
-url = "/404"
-
-
 # footer menu
 [[footer]]
 name = "عن"

@@ -1,23 +1,13 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Konferencje dla Filantropii"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+image: "/images/philea1.jpeg"
+categories: ["Konferencja"]
+author: "Piotr Juśkiewicz"
+tags: ["NIW"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Rok 2024 był kluczowy dla nawiązywania kontaktów i wzmacniania relacji z międzynarodowymi organizacjami. Jednym z najważniejszych wydarzeń był nasz udział w konferencji KoneKtor 2024 w Pradze, organizowanej przez Philea – Philanthropy Europe Association. Wydarzenie to zapewniło nam cenne możliwości nawiązania współpracy z przedstawicielami europejskich organizacji pozarządowych.

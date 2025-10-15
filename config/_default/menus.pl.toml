@@ -36,19 +36,15 @@ parent = "Strony"
 name = "Kategorie"
 url = "/categories"
 
-[[main]]
-parent = "Strony"
-name = "404 Strona"
-url = "/404"
 
 
 # footer menu
 [[footer]]
-name = "About"
+name = "O nas"
 url = "/about"
 weight = 1
 
 [[footer]]
-name = "Privacy Policy"
+name = "Polityka prywatności"
 url = "/privacy-policy"
 weight = 3

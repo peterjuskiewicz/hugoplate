@@ -1,7 +1,6 @@
 ---
-title: John Doe
-email: johndoe@email.com
-image: "/images/avatar.png"
+title: Członkostwo w Impact Europe
+image: "/images/BEL00216.jpg"
 description: this is meta description
 social:
   - name: github
